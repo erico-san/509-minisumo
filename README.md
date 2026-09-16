@@ -74,11 +74,19 @@ La placa PCB diseñada para este modelo integra los componentes necesarios para 
 
 ## Videos Adjuntos
 
-<p align="center">
-  <a href="https://youtube.com/shorts/eMg-vKGihfI">
-    <img src="https://img.youtube.com/vi/eMg-vKGihfI/0.jpg" width="400" alt="Video de prueba pesaje de minisumo" />
-  </a>
-  <a href="https://youtube.com/shorts/Ilnm2QnsiVM">
-    <img src="https://img.youtube.com/vi/Ilnm2QnsiVM/0.jpg" width="400" alt="Video de combate minisumo en competencia" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://youtube.com/shorts/eMg-vKGihfI">
+        <img src="https://img.youtube.com/vi/eMg-vKGihfI/0.jpg" width="250" alt="Video de prueba pesaje de minisumo" />
+      </a>
+      <br><b>Pesaje oficial</b>
+    </td>
+    <td align="center">
+      <a href="https://youtube.com/shorts/Ilnm2QnsiVM">
+        <img src="https://img.youtube.com/vi/Ilnm2QnsiVM/0.jpg" width="250" alt="Video de combate minisumo en competencia" />
+      </a>
+      <br><b>Combate en competencia</b>
+    </td>
+  </tr>
+</table>
