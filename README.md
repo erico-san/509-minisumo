@@ -46,12 +46,15 @@ Esto permite un desplazamiento angular interno independiente para cada motor. El
 <img width="500" height="281" alt="Diagrama de amortiguador de silicona para motores" src="https://github.com/user-attachments/assets/1181647f-d449-4fe3-b5cf-2cc4851056a0" />
 <img width="500" height="295" alt="Corte transversal amortiguador interno minisumo" src="https://github.com/user-attachments/assets/68a2fe52-1472-497c-9a92-8aaae4bb6018" />
 
-## Control por Bluetooth
+## Control por Bluetooth y Firmware
+
+El firmware para el ESP32 está incluido como código abierto dentro de este mismo repositorio, listo para ser descargado, compilado y modificado según tus necesidades:
+
+* **Código fuente ESP32:** [`firmware/firmware.ino`](firmware/firmware.ino)
 
 Para el control manual de este modelo (en base a la versión 505) se utiliza la aplicación **Bluetooth RC Car** para Android.
 
 * **Descarga:** [Bluetooth RC Car en Softonic](https://bluetooth-rc-car.softonic.com/android).
-
 <img width="481" height="362" alt="App Android Bluetooth RC Car para control de minisumo" src="https://github.com/user-attachments/assets/1752ba2e-0293-4d04-9ad2-65c4749037eb" />
 
 ## Electrónica (Main Board)
